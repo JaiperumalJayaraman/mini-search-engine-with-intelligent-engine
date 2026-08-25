@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Machine Learning",
+    "category": "AI",
+    "content": "Machine learning allows computers to learn patterns from data and make predictions. Common approaches include supervised and unsupervised learning.",
+    "keywords": ["machine learning", "ml", "ai", "data", "prediction"]
+  },
+  {
+    "id": 2,
+    "title": "Python Programming Basics",
+    "category": "Programming",
+    "content": "Python is a popular programming language used for automation, data analysis, artificial intelligence, web applications and scripting.",
+    "keywords": ["python", "programming", "software", "coding"]
+  },
+  {
+    "id": 3,
+    "title": "SQL and Databases",
+    "category": "Data",
+    "content": "SQL is used to store, query, filter and analyze structured data in relational database systems.",
+    "keywords": ["sql", "database", "query", "data"]
+  },
+  {
+    "id": 4,
+    "title": "Cloud Computing",
+    "category": "Technology",
+    "content": "Cloud computing provides scalable computing, storage and application services through platforms such as AWS and Azure.",
+    "keywords": ["cloud", "aws", "azure", "computing"]
+  },
+  {
+    "id": 5,
+    "title": "Building Web Applications",
+    "category": "Web Development",
+    "content": "Web applications combine frontend interfaces with backend services and databases to deliver interactive online experiences.",
+    "keywords": ["web", "frontend", "backend", "application", "website"]
+  },
+  {
+    "id": 6,
+    "title": "Data Analysis with Python",
+    "category": "Data",
+    "content": "Data analysis uses Python tools to clean, explore and understand datasets and communicate useful business insights.",
+    "keywords": ["python", "data", "analysis", "insights"]
+  },
+  {
+    "id": 7,
+    "title": "Software Engineering Careers",
+    "category": "Career",
+    "content": "Software engineering careers require programming, problem solving, system design, teamwork and practical project experience.",
+    "keywords": ["career", "job", "software", "skills", "programming"]
+  },
+  {
+    "id": 8,
+    "title": "Artificial Intelligence Applications",
+    "category": "AI",
+    "content": "Artificial intelligence is used in recommendation systems, natural language processing, computer vision and intelligent automation.",
+    "keywords": ["ai", "artificial intelligence", "machine learning", "automation"]
+  }
+]
